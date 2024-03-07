@@ -1,0 +1,8 @@
+{
+    "name": "House Assistance",
+    "description": "App to help you manage your house",
+    "start_url": "/",
+    "lang": "fr-FR",
+    "theme_color": "#9bcf53",
+    "display": "standalone"
+  }
